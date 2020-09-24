@@ -3,9 +3,9 @@ graphics , mesa , 20.1.5 , support , x86_64 , gallium-pipe , OpenCL , d3d , nine
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , Ubuntu 20.10 Groovy Gorilla , not test support ubuntu 18.10.19.10 , alternative driver libglu драйвер работает даже если вы его установите и поверх новой версии mesa тем самым заменив её.
 
-install https://github.com/Griggorii/mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics + libswrAVX.so.0.0.0 , libswrAVX2.so.0.0.0
+1) install https://github.com/Griggorii/mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics + libswrAVX.so.0.0.0 , libswrAVX2.so.0.0.0
 
-sudo tar xvpf mesa-20.1.5_by_grigorii_v2.tar.xz -C /
+2) sudo tar xvpf mesa-20.1.5_by_grigorii_v2.tar.xz -C /
 
 Terminal run check version command:
 
